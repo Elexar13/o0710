@@ -1,0 +1,31 @@
+body {
+    display: flex;
+    justify-content: center;
+    border-spacing: 0 10px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+}
+table {
+    background-color: #bab7b6;
+    text-align: center;
+}
+
+td {
+    /*background-color: beige;
+    font-size: 25px;*/
+    vertical-align: middle;
+    padding: 10px;
+    font-size: 14px;
+    text-align: center;
+    border-top: 2px solid #56433D;
+    border-bottom: 2px solid #56433D;
+    border-right: 2px solid #56433D;
+}
+
+th {
+    padding: 10px 20px;
+    background: #56433D;
+    color: #F9C941;
+    border-right: 2px solid;
+    font-size: 0.9em;
+}
